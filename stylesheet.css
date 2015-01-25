@@ -1,0 +1,27 @@
+ /*This is the best blocks ever!*/
+ div {
+   background-color:red;
+   height:100px;
+   width:100px;
+ }
+  
+p {
+  background-color:red;
+  border:1px solid black;
+  height:30px;
+  width:50px;
+}
+
+table {
+  border:1px solid red;
+}
+
+td {
+  height:50px;
+  width:100px;
+  border:1px solid blue;
+}
+
+tr {
+  background-color:black;
+}
